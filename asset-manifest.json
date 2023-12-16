@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/realtime-react-chatapp/static/css/main.ded8eb4d.css",
+    "main.js": "/realtime-react-chatapp/static/js/main.32e9390a.js",
+    "static/media/addprolife.png": "/realtime-react-chatapp/static/media/addprolife.92610b95d64b325b89f5.png",
+    "index.html": "/realtime-react-chatapp/index.html",
+    "main.ded8eb4d.css.map": "/realtime-react-chatapp/static/css/main.ded8eb4d.css.map",
+    "main.32e9390a.js.map": "/realtime-react-chatapp/static/js/main.32e9390a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded8eb4d.css",
+    "static/js/main.32e9390a.js"
+  ]
+}
